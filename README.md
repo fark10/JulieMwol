@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="Animegirl.jpg"https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Animegirl" src="https://img.shields.io/badge/Animegirl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
